@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=selectionlee&show_icons=true&theme=vue)
 
-/github/pipenv/locked/python-version/:user/:repo
+https://img.shields.io/badge/<LABEL>-<MESSAGE>-<COLOR>/github/pipenv/locked/python-version/:user/:repo
