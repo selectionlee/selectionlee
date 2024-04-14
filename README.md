@@ -19,5 +19,6 @@ Here are some ideas to get you started:
 
 ### 🖥️ skills 
 <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> <br>
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white"/> <br>
 <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=R&logoColor=white"> <br>
 <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> <br>
