@@ -15,9 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div align="center">
-   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=selectionlee&show_icons=true&theme=vue)
-</div>
 
 <h3 align="center"> 🖥️ skills</h3>
 <div align="center">
@@ -26,3 +23,5 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=R&logoColor=white"> 
   <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> 
 </div>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=selectionlee&show_icons=true&theme=vue)
