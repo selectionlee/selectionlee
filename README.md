@@ -14,8 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=selectionlee&show_icons=true&theme=vue)
-
 
 <h3 align="center"> 🖥️ skills</h3>
 <div align="center">
