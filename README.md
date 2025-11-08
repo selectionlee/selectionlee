@@ -11,7 +11,7 @@
           <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white">
           <img src="https://img.shields.io/badge/Tensorflow-FF6F00?style=flat-square&logo=Tensorflow&logoColor=white">
           <img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=Keras&logoColor=white">
-          <img src=["https://img.shields.io/badge/streamlit-#FF4B4B?style=flat-square&logo=streamlits&logoColor=white">](https://img.shields.io/badge/streamlit%20-%23FF0000.svg?style=for-the-badge&logo=streamlit&logoColor=white)
+          <img src="https://img.shields.io/badge/streamlit-#FF4B4B?style=flat-square&logo=streamlits&logoColor=white">
           <br/><img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=Github&logoColor=white">
           <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white">
           <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white">
