@@ -17,7 +17,7 @@
           <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white">
           </div>
 
-### 수상경력
+### Awards 
 * K intelligence 해커톤 Track 2 | 3등  
 
 
