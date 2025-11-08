@@ -1,8 +1,3 @@
-### Hi there 👋
-
-<div align="left"> 
-  <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2>
-  <br>
   <div style="font-weight: 700; font-size: 15px; color: #282d33;">
     <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white">
     <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white">
@@ -17,9 +12,5 @@
     <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white">
   </div>
 </div>
-
-
-### Awards 
-* K intelligence 해커톤 Track 2 | 3등  
 
 
