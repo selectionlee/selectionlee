@@ -5,6 +5,7 @@
     <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white">
     <img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=Keras&logoColor=white">
     <img src="https://img.shields.io/badge/Streamlit-%23FF4B4B?style=flat-square&logo=streamlit&logoColor=white">
+    <img src="https://img.shields.io/badge/AutoCAD-%23E51050?style=flat-square&logo=AutoCAD&logoColor=white">
     <br>
     <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white">
     <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white">
